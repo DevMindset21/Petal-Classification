@@ -1,3 +1,4 @@
+## Data
 The dataset contains imperfections - images of flowers in odd places, or as a backdrop to modern machinery.
 The task is to build a classifier than can see past all that, to the flowers at the heart of the images and classfiy them into the categories accurately.
 
